@@ -1,35 +1,31 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":ramen: Prototype Payroll System"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+date: 2017-11-17 17:00
+tag:
+- class-project
+- systems-analysis
+- payroll
+- prototype
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "A prototype payroll system based on requirements specified Federated Insureance that my group was required to create for our IT380 Systems Analysis and Design class"
 category: project
-author: johndoe
+author: chevoniedaniel
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+This was part of a class group project to design a prototype payroll system that could be used by Federated Insurance. An employee for the company briefed us on the specifications necessary for a company of their size (appx. 2400 employees). These requirements gave us an idea of the business rules to be developed for the creation of the Entity Relationship Diagram needed to ensure that the GUI included the  functionality expected.
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+A number of analyses were conducted to ensure that the system solved the problems faceed by the previous payroll system while reducing scope creep. These included:
 
----
+- Operational, Technical, and Business Feasibility analyses
+- A SWOT Analysis
+- A Business Case
+- Project Scope
+- RACI Framework
 
-What has inside?
+In order to efficiently co-ordinate our efforts, we employed the Agile framework, Scum and used Slack for most of our communications. This project helped us understand the importance of clear communication and proper designation of tasks. It also shed light on the large amount of work that goes into developing enterprise software and their ability to 
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+The result of our work was a well designed system that was capable of performed all the functions required.
