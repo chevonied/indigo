@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Chevonie Daniel
+bio: A software developer from the Caribbean currently freezing in Minnesota.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A repository of any various ideas, tips and projects I can think up.
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/open?id=1ioBmKQorRVUSm6hqAYy32OeeaJEycijx
 
-url: https://koppl.in/indigo
+url: http://chevonie.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: chevonied
 # google: mygoogle
-# instagram: myinstagram
+instagram: chevonied
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: chevonied
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: chevonied@gmail.com
 
 authors:
     johndoe:
@@ -108,4 +108,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://github.com/chevonied
