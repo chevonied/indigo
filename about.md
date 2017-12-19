@@ -24,5 +24,6 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Prototype Payroll System</a></li>
+	<li><a href="/_posts/2017-12-19-prototype-payroll-system.markdown">Prototype Payroll System</a></li>
+	<li><a href="/_posts/2017-12-19-Clock-Gene-Analysis.markdown">Prototype Payroll System</a></li>
 </ul>
