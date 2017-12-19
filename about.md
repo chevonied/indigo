@@ -24,6 +24,6 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="/chevonie.com/prototype-payroll-system.markdown">Prototype Payroll System</a></li>
-	<li><a href="chevonie.com/Clock-Gene-Analysis.markdown">Clock Gene Analysis</a></li>
+	<li><a href="/chevonie.com/prototype-payroll-system">Prototype Payroll System</a></li>
+	<li><a href="chevonie.com/Clock-Gene-Analysis">Clock Gene Analysis</a></li>
 </ul>
