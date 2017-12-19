@@ -27,20 +27,20 @@ Our analysis led us to conclude that there is more variation in the protein vers
 Some pictures detailing portions of our analysis can be found below:
 
 ![Area with Highest Concentration of Gene Alignments](/assets/images/clock_gene_analysis/gene_alignment.PNG)
-**		Area with Highest Concentration of Gene Alignments**
+__Area with Highest Concentration of Gene Alignments__
 
 ![Area with Highest Concentration of Amino Acid Alignments](/assets/images/clock_gene_analysis/protein_alignment.PNG)
-**		Area with Highest Concentration of Amino Acid Alignments**
+__Area with Highest Concentration of Amino Acid Alignments__
 
 ---
 
 ![Consensus Frequency in the Gene](/assets/images/clock_gene_analysis/Concensus_Frequency_Gene.PNG)
-**		Consensus Frequency in the Gene**
+__Consensus Frequency in the Gene__
 
 ![Consensus Frequency in the Amino Acid](/assets/images/clock_gene_analysis/Concensus_Frequency_Protein.PNG)
-**		Consensus Frequency in the Amino Acid**
+__Consensus Frequency in the Amino Acid__
 
 ---
 
 ![3-D Model of Amino Acid Interaction with DNA](/assets/images/clock_gene_analysis/protein_model.PNG)
-**		3-D Model of Amino Acid Interaction with DNA**
+__3-D Model of Amino Acid Interaction with DNA__
