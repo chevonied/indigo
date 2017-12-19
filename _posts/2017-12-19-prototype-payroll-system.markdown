@@ -34,8 +34,8 @@ The result of our work was a well designed system that was capable of performed 
 ![Login Page](/assets/images/payroll_system/login.PNG)
 __Prototype Login Page__
 
-![Budget & Performance Date](/assets/images/payroll_system/budget_info.PNG)
+![Budget & Performance Date](/assets/images/payroll_system/Budget_info.PNG)
 __Budget & Performance Data Area__
 
-![Adding an Employee](/assets/images/payroll_system/add_employee.PMG)
+![Adding an Employee](/assets/images/payroll_system/add_employee.PNG)
 __Adding an Employee Area__
