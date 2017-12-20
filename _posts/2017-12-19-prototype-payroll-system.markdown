@@ -31,14 +31,16 @@ In order to efficiently co-ordinate our efforts, we employed the Agile framework
 
 The result of our work was a well designed system that was capable of performed all the functions required. A few pictures of the prototype system can be found below:
 
-| ![Login Page](/assets/images/payroll_system/login.PNG){: .center-image } |
+| ![Login Page](/assets/images/payroll_system/login.PNG) |
 |:--:| 
 | __Prototype Login Page__ |
+<br><br>
 
-| ![Budget and Performance Date](/assets/images/payroll_system/Budget_info.PNG){: .center-image } |
+| ![Budget and Performance Date](/assets/images/payroll_system/Budget_info.PNG) |
 |:--:|
 | __Budget and Performance Data Area__ |
+<br><br>
 
-| ![Adding an Employee](/assets/images/payroll_system/add_employee.PNG){: .center-image } |
+| ![Adding an Employee](/assets/images/payroll_system/add_employee.PNG) |
 |:--:|
 | __Adding an Employee Area__ |
