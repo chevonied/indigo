@@ -34,14 +34,15 @@ The result of our work was a well designed system that was capable of performed 
 | ![Login Page](/assets/images/payroll_system/login.PNG) |
 |:--:| 
 | __Prototype Login Page__ |
-<br><br>
+
+<br>
 
 
 | ![Budget and Performance Date](/assets/images/payroll_system/Budget_info.PNG) |
 |:--:|
 | __Budget and Performance Data Area__ |
 
-<br><br>
+<br>
 
 | ![Adding an Employee](/assets/images/payroll_system/add_employee.PNG) |
 |:--:|
