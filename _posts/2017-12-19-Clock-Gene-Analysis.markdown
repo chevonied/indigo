@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Clock Gene Analysis"
+title: "Clock Gene Analysis"
 layout: post
 date: 2017-12-19 17:00
 tag:

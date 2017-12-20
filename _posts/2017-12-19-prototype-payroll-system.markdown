@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Prototype Payroll System"
+title: "Prototype Payroll System"
 layout: post
 date: 2017-12-19 17:00
 tag:
