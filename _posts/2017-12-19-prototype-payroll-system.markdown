@@ -31,7 +31,7 @@ In order to efficiently co-ordinate our efforts, we employed the Agile framework
 
 The result of our work was a well designed system that was capable of performed all the functions required. A few pictures of the prototype system can be found below:
 
-<center>|<center> ![Login Page](/assets/images/payroll_system/login.PNG)+{} </center>|</center>
+| ![Login Page](/assets/images/payroll_system/login.PNG)+{} |
 |:--:| 
 | __Prototype Login Page__ |
 
