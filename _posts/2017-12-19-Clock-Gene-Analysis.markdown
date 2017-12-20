@@ -26,6 +26,8 @@ Our analysis led us to conclude that there is more variation in the protein vers
 
 Some pictures detailing portions of our analysis can be found below:
 
+
+<div style="text-align:center" markdown="1">
 | ![Area with Highest Concentration of Gene Alignments](/assets/images/clock_gene_analysis/gene_alignment.PNG) |
 |:--:|
 | __Area with Highest Concentration of Gene Alignments__ |
@@ -51,3 +53,4 @@ Some pictures detailing portions of our analysis can be found below:
 | ![3-D Model of Amino Acid Interaction with DNA](/assets/images/clock_gene_analysis/protein_model.PNG) |
 |:--:|
 | __3-D Model of Amino Acid Interaction with DNA__ |
+</div>
