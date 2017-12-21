@@ -16,7 +16,7 @@ author: chevoniedaniel
 externalLink: false
 ---
 
-For this project, my partner and I did an analysis of the clock gene found on the third chromosome of Drosophilla Melanogaster (the fruit fly).
+For this project, my partner and I did an analysis of the clock gene (Dmel/Clk) found on the third chromosome of Drosophilla Melanogaster (the fruit fly).
 
 Our research involved determining the function of the clock gene and how it is affected by different stimuli such as light and comparing the gene and amino acid sequences of the fruit fly with those of other organisms (The Red Junglefowl, The typical House Mouse, The Brown Rat, The Giant River Prawn and the Firebrat). 
 
