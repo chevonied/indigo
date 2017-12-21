@@ -10,7 +10,7 @@ layout: compress
     <meta name=viewport content="width=device-width, initial-scale=1">
 
     <meta name=description content="{{ site.bio }}">
-    <meta name=author content="{{  }}">
+    <meta name=author content="{{ site.name }}">
 
     {% seo %}
     
@@ -32,9 +32,9 @@ layout: compress
             <div class="post">
         {% else %}
             {% if showHeader != true %}
-                <div class="page {{ page.title | downcase }}">
+                <div class="page {{  | downcase }}">
             {% else %}
-                <div class="{{ page.title | downcase }}">
+                <div class="{{  | downcase }}">
             {% endif %}
         {% endif %}
 
