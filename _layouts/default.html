@@ -10,13 +10,13 @@ layout: compress
     <meta name=viewport content="width=device-width, initial-scale=1">
 
     <meta name=description content="{{ site.bio }}">
-    <meta name=author content="{{ site.name }}">
+    <meta name=author content="{{  }}">
 
     {% seo %}
     
     {% include favicon.html %}
 
-    <link rel="canonical" href="{{ site.url }}{{ page.url | index.html,'' }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
 
     <style>
