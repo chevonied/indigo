@@ -2,7 +2,6 @@
 title: "The difference between \n and endl in C++"
 layout: post
 date: 2017-12-23 17:00
-headerImage: true
 tag:
 - C++
 - Syntax
@@ -10,9 +9,11 @@ tag:
 - Nuances
 - Endl
 - \n
+image: /assets/images/n_vs_endl/codeheader.PNG
+headerImage: true
 category: blog
 author: chevoniedaniel
-description: "A brief comparison between the use of \n and endl to create new lines in c++"
+description: "A brief comparison between the use of \n and endl to create new lines in C++"
 ---
 
 About two years ago when I took my first C++ class, I remember my professor used both `\n` and `endl` to create new lines. Having been previously acquainted with `\n` from Python, I wondered what difference the two had on the running of a program. One day after class, I asked him what the difference was and he told me that `endl` also flushes the buffer.
