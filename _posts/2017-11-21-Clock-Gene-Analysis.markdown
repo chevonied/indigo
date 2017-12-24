@@ -1,7 +1,8 @@
 ---
 title: "Clock Gene Analysis"
 layout: post
-date: 2017-12-19 17:00
+date: 2017-11-21 17:00
+image: /assets/images/clock_gene_analysis/genelocation.PNG
 tag:
 - class-project
 - genetics
