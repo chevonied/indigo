@@ -1,5 +1,5 @@
 ---
-title: "The difference between \n and endl in C++"
+title: "The difference between '\n' and 'endl' in C++"
 layout: post
 date: 2017-12-23 17:00
 tag:
