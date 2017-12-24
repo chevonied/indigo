@@ -1,6 +1,5 @@
 x---
 title: "Clock Gene Analysis"
-image: /assets/images/clock_gene_analysis/genelocation.PNG
 layout: post
 date: 2017-11-21 17:00
 tag:
@@ -8,6 +7,7 @@ tag:
 - genetics
 - clock
 - analysis
+image: /assets/images/clock_gene_analysis/genelocation.PNG
 headerImage: true
 projects: true
 hidden: false
