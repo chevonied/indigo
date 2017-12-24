@@ -11,7 +11,7 @@ image: /assets/images/clock_gene_analysis/genelocation.PNG
 headerImage: true
 projects: true
 hidden: false
-description: "An analysis of the clock gene in Drosophilla Melanogaster (fruit fly) and a comparison with the clock genes found in other organisms."
+description: "Conducted an analysis of the clock gene in Drosophilla Melanogaster (fruit fly) and a comparison with the clock genes found in other organisms."
 category: project
 author: chevoniedaniel
 externalLink: false
