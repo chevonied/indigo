@@ -15,7 +15,7 @@ author: chevoniedaniel
 description: "A list of some of the most useful Sublime Text packages in my opinion"
 ---
 
-It's no secret that I like using Sublime Text, both for its aesthetics and the productivity boost I've noticed when using it. So, I figured why not spread the joy around, and hopefully help make another programmer's life a bit easier. I'll try to keep updating this list as I find more great packages.
+It's no secret that I like using Sublime Text, both for its aesthetics and the productivity boost I've noticed when using it. So, I figured why not spread the joy around, and hopefully help make another programmer's life a bit easier.
 
 To start off, you'll obviously need to have Sublime Text installed. It's cross-platform, and the latest version can be downloaded directly from [their website](https://www.sublimetext.com/3). After it's installed you will need to install Package Control, which only involves pasting some code into the Sublime Text console, the instructions for which can be found [here](https://packagecontrol.io/installation). If everything is all set up, you can now install packages by pressing `Ctrl + Shift + P` on Windows or `Command + Shift + P` on Mac, typing in the package name and selecting the one you want.
 
@@ -56,3 +56,6 @@ This useful little package helps by showing you the scope of a function of class
 ## Auto-save
 
 This package, coupled with a browser extension with the same same, saves you from having to press refresh all the time when working on files open in the browser. The official documentation can be found [here](https://packagecontrol.io/packages/auto-save)
+
+
+I hope some of these packages helped you become a more efficient programmer. I'll try to keep updating this list as I find more great packages.
