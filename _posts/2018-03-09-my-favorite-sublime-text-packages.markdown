@@ -12,7 +12,8 @@ image: /assets/images/st3favs/codepic.jpg
 headerImage: true
 category: blog
 author: chevoniedaniel
-description: "A list of some of the most useful Sublime Text packages in my opinion"
+description: "A list of what I consider to be some of the most useful Sublime Text packages."
+description: true
 ---
 
 It's no secret that I like using Sublime Text, both for its aesthetics and the productivity boost I've noticed when using it. So, I figured why not spread the joy around, and hopefully help make another programmer's life a bit easier.
