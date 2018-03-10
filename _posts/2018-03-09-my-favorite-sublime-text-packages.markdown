@@ -16,11 +16,11 @@ description: "A list of what I consider to be some of the most useful Sublime Te
 description: true
 ---
 
-It's no secret that I like using Sublime Text, both for its aesthetics and the productivity boost I've noticed when using it. So, I figured why not spread the joy around, and hopefully help make another programmer's life a bit easier.
+It's no secret that I enjoy using Sublime Text, both for its aesthetics and the productivity boost I noticed when using it. So, I figured why not spread the joy around, and hopefully help make another programmer just a bit more efficient.
 
 To start off, you'll obviously need to have Sublime Text installed. It's cross-platform, and the latest version can be downloaded directly from [their website](https://www.sublimetext.com/3). After it's installed you will need to install Package Control, which only involves pasting some code into the Sublime Text console, the instructions for which can be found [here](https://packagecontrol.io/installation). If everything is all set up, you can now install packages by pressing `Ctrl + Shift + P` on Windows or `Command + Shift + P` on Mac, typing in the package name and selecting the one you want.
 
-Finally, here's the list of packages:
+Finally, here's the list of Sublime Text packages I consider to be the most useful:
 
 
 ## Side​Bar​Enhancements
@@ -31,7 +31,6 @@ Despite it's apparent simplicity, this is one of the most useful Sublime Text pa
 ## Dayle Rees Color Schemes
 
 Remember all that talk about the aesthetics of Sublime Text that I like so much? Well, this package really helps to bring it out. It brings a large number of different color schemes that make working with ST a real treat. You can find the official documentation [here](https://packagecontrol.io/packages/Dayle%20Rees%20Color%20Schemes)
-
 
 
 ## SublimeLinter
@@ -59,4 +58,4 @@ This useful little package helps by showing you the scope of a function of class
 This package, coupled with a browser extension with the same same, saves you from having to press refresh all the time when working on files open in the browser. The official documentation can be found [here](https://packagecontrol.io/packages/auto-save)
 
 
-I hope some of these packages helped you become a more efficient programmer. I'll try to keep updating this list as I find more great packages.
+I hope some of these packages were useful to you, and I'll try to keep updating this list, as I find more great packages. Feel free to contact me with suggestions.
