@@ -85,10 +85,7 @@ wordcloud(coll_clean)
 ```
 
 If everything worked out, you should be seeing something like this:
-
 ![Unfinished Wordcloud](/assets/images/wordcloud_tut/unfinished_wc.png "Unfinished Wordcloud")
-
-
 Not very impressive I know, but we can spruce it up a bit with this:
 
 ```rconsole
@@ -96,8 +93,5 @@ wordcloud(coll_clean, random.order = F, random.color = T, max.words = 50, scale 
 ```
 
 This code limits the number of words to 50, determines the range of the size of words and adds color to the Wordcloud. After running it, your Wordcloud should look something like this:
-
 ![Unfinished Wordcloud](/assets/images/wordcloud_tut/finished_wc.png "Finished Wordcloud")
-
-
 Now you have a swanky new Wordcloud, don't stop here, tinker with it, try new functions and have some fun!
