@@ -18,7 +18,7 @@ description: true
 
 It’s no secret that I enjoy using Sublime Text, both for its aesthetics, and the productivity boost I noticed when using it. So, I figured why not spread the joy around, and hopefully help make another programmer become just a bit more efficient.
 
-To start off, you’ll obviously need to have Sublime Text installed. It’s cross-platform, and the latest version can be downloaded directly from [their website](https://www.sublimetext.com/3). After it’s installed, you’ll need to get Package Control, which only involves pasting some code into the Sublime Text console, the instructions for which can be found [here](https://packagecontrol.io/installation). If everything is all set up, you can now install packages by pressing `Ctrl + Shift + P` on Windows or `Command + Shift + P` on Mac, typing in the package name, and selecting the one you want.
+To start off, you’ll obviously need to have Sublime Text installed. It’s cross-platform, and the latest version can be downloaded directly from [their website](https://www.sublimetext.com/3). After it’s installed, you’ll need to get Package Control, which only involves pasting some code into the Sublime Text console, the instructions for which can be found [here](https://packagecontrol.io/installation). If everything is all set up, you can now install packages by pressing `Ctrl + Shift + P` on Windows or `Command + Shift + P` on Mac, choose "Package Control: Install Package", input the package name, and select the one you want.
 
 Finally, here’s the list of Sublime Text packages I consider to be the most useful:
 
