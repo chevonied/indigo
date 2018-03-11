@@ -8,7 +8,7 @@ tag:
 - Analytics
 - Tutorial
 - Data Science
-image: /assets/images/worldcloud_tut/worldcloud.png
+image: /assets/images/worldcloud_tut/finished_wc.png
 headerImage: true
 category: blog
 author: chevoniedaniel
