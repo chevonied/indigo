@@ -16,7 +16,7 @@ description: "A simple tutorial detailing how to create Wordclouds in R from Twi
 
 Wordclouds can be very useful to determine what customers are saying about your product or service. They can be created using the R Programming Language in a relatively short amount of time and customized in a variety of ways. I'll walk you through the process of creating your own Wordclouds and customizing it based on Twitter data.
 
-The first thing you'd want to do is install the R Programming Language. The most recent version can be found on the [official website](https://cran.r-project.org/). When that's completed, I strongly recommend installing [RSudio](https://www.rstudio.com/products/rstudio/download/). It can make your programming in R a lot easier, unless of course if you really enjoy programming in the terminal.
+The first thing you'd want to do is install the R Programming Language. The most recent version can be found on [this website](https://cran.r-project.org/). When that's completed, I strongly recommend installing [RSudio](https://www.rstudio.com/products/rstudio/download/). It can make your programming in R a lot easier, unless of course if you really enjoy programming in the terminal.
 
 Now that you've installed the required software, the next step is setting up an account with Twitter and creating the Wordcloud app. This will allow you to interface with their API in order to download the tweet data.
 
