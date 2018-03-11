@@ -8,8 +8,7 @@ tag:
 - Analytics
 - Tutorial
 - Data Science
-image: /assets/images/wordcloud_tut/finished_wc.png
-headerImage: true
+headerImage: false
 category: blog
 author: chevoniedaniel
 description: "A simple tutorial detailing how to create Wordclouds in R from Twitter data."
