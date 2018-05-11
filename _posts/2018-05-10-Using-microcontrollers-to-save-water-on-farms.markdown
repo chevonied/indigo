@@ -9,7 +9,7 @@ tag:
   - Farming
   - Microcontollers
   - Agro-Tech
-image: /assets/images/agri_schol/garden.jpg
+image: /assets/images/agri/garden.jpg
 headerImage: true
 category: blog
 author: chevoniedaniel
