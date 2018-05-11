@@ -10,7 +10,7 @@ tag:
   - Microcontollers
   - Agro-Tech
 image: /assets/images/agri/garden.jpg
-headerImage: true
+headerImage: false
 category: blog
 author: chevoniedaniel
 description: A piece I wrote explaining the potential to conserve water use on farms using Microcontrollers.
